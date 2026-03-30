@@ -1,3 +1,4 @@
+
 ## Experiment No: 1d – Conditional Statements- Checking Vowel or not
 
 ## AIM  
@@ -13,8 +14,8 @@ To Write a Python program to check whether the given character is a vowel or not
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
+# Reg.No- 212222060167
+# Name- NITHISHKUMAR R
 # Write your code here
 
 char = input("Enter a character: ")
@@ -27,5 +28,7 @@ else:
 ```
 
 ## OUTPUT
+<img width="830" height="223" alt="image" src="https://github.com/user-attachments/assets/aac2ed3a-90d2-485e-b593-e403a6b105b2" />
 
 ## RESULT
+A Python program to check whether the given character is a vowel or not using if..else statement has been implemented and executed successfully
