@@ -1,3 +1,5 @@
+
+
 # Experiment No: 1a Python Basics- Printing Multiline String
 
 ## AIM  
@@ -11,8 +13,8 @@ To create a Python program to print the string in multiple lines using triple qu
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
+# Reg.No- 212222060167
+# Name- NITHISHKUMAR R
 # Write your code here
 
 string_single_quotes = '''I am a string literal
@@ -29,6 +31,7 @@ print(string_single_quotes)
 print(string_double_quotes)
 ```
 ## OUTPUT
+<img width="1145" height="432" alt="image" src="https://github.com/user-attachments/assets/6f19c397-16d1-42e5-b304-fb51a075c342" />
 
 ## RESULT
-
+The program prints a multiline string using both triple single(''') and triple double(""") quotes.
